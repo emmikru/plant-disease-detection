@@ -1,12 +1,12 @@
 # 🌱 Plant Disease Detection – Semesterprojekt (KI & Big Data Analytics)
 
-## 👥 Team
+## Team
 - *Emily Krüger (s0582256)*
 - *[Name 2]*
 
 ---
 
-## 🎯 Projektziel
+## Projektziel
 
 Ziel dieses Projekts ist die Entwicklung eines Machine-Learning-Modells, das anhand von Bildern von Pflanzenblättern automatisch erkennt, ob die Pflanze gesund ist oder an einer bestimmten Krankheit leidet.  
 Dazu verwenden wir Convolutional Neural Networks (CNNs) und den frei verfügbaren **PlantVillage-Datensatz**.
@@ -22,7 +22,7 @@ Das Projekt erfüllt die Anforderungen:
 
 ---
 
-## 📦 Verwendete Technologien
+## Verwendete Technologien
 
 - Python 3.10+
 - Jupyter Notebook
@@ -34,5 +34,5 @@ Das Projekt erfüllt die Anforderungen:
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 
