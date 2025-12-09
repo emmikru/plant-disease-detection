@@ -2,7 +2,7 @@
 
 ## Team
 - *Emily Krüger (s0582256)*
-- *[Name 2]*
+- *Nguyen Thien Vu David (s0582419)*
 
 ---
 
