@@ -1,0 +1,10 @@
+# ML Modelle
+*.h5
+*.keras
+
+# Kaggle Cache
+.cache/
+.cache/kagglehub/
+
+# Jupyter
+.ipynb_checkpoints/
