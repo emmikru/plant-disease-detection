@@ -18,7 +18,7 @@ Das Projekt erfüllt die Anforderungen:
 4. Datenaufbereitung & Feature Engineering  
 5. Modelltraining (Baseline CNN & optional Transfer Learning)  
 6. Bewertung über Metriken und Kreuzvalidierung  
-7. Bonus: Modellverbesserungen & eigene Fotos testen  
+7. Bonus: Transfer Learning & Explainable Ai (XAI)
 
 ---
 
