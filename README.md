@@ -31,8 +31,3 @@ Das Projekt erfüllt die Anforderungen:
 - Matplotlib, Seaborn
 - scikit-learn
 - OpenCV
-
----
-
-## Projektstruktur
-
